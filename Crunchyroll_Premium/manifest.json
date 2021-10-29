@@ -1,7 +1,7 @@
 {
-	"name": "Crunchyroll sin anuncios edit",
-	"version": "1.1",
-	"description": "Crunchyroll Sin anuncios Jc23 Edition.",
+	"name": "Crunchyroll iFrame Player",
+	"version": "1.0.3",
+	"description": "Permite ver todos os vídeos do crunchyroll gratuitamente.",
 	"author": "itallolegal",
 	"icons": { "48": "icon.png" },
 	"browser_action":{
